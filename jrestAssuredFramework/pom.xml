@@ -30,6 +30,7 @@
             <file>testng.xml</file>
           </suiteXmlFiles>
      
+     
         </configuration>
       </plugin>
       </plugins>
